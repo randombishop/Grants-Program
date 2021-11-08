@@ -124,7 +124,7 @@ we have all the necessary foundations and ingredients to succeed:
     - Browser Extension: Pure JS, compatible both Chrome and Firefox.
     - Indexed databases: ETL written in NodeJS, data stored in Elastic Search (URL documents) and Neo4J (social network.) 
     - Offchain API: NodeJS web services.
-    - SORA/Polkaswap Bridge: Substrate.
+    - DEX Bridge: Substrate.
     - Website and documentation: Docusaurus. 
     
 * Documentation:
