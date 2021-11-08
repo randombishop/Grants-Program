@@ -102,7 +102,7 @@ we have all the necessary foundations and ingredients to succeed:
     - **Offchain API** 
       - Not started yet.
     
-    - **Polkaswap Bridge** 
+    - **DEX Bridge** 
       - Not started yet.
     
     - **Integrations** 
